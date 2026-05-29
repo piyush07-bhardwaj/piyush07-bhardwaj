@@ -62,15 +62,6 @@
 - MERN Stack project
 - Dynamic filtering and product search
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyush07-bhardwaj&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush07-bhardwaj&layout=compact)
-
----
 
 ## 🌱 Currently Learning
 

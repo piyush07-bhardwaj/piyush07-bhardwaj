@@ -1,5 +1,4 @@
-# Hi 👋, I'm Piyush Kumar
-
+# Hi 👋, I'm Piyush Bhardwaj
 ### Software Engineer | Full Stack Developer | Blockchain Enthusiast
 
 🎓 Final Year B.Tech Computer Science & Engineering Student at Chandigarh University
